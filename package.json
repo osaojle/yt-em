@@ -1,0 +1,18 @@
+{
+  "name": "youtube-emulator",
+  "main": "./lib/youtube-emulator",
+  "version": "0.0.0",
+  "description": "Create a youtube panel",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "youtube-emulator:toggle"
+  },
+  "repository": "https://github.com/atom/youtube-emulator",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+  }
+}
